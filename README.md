@@ -1,1 +1,1 @@
-# car.bike-classification
+# Image Classification of Car vs Bike
